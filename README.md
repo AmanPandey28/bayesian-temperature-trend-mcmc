@@ -54,7 +54,7 @@ The analysis was performed using Python 3. The main libraries required are:
 You can typically install these using pip:
 `pip install numpy pandas scipy matplotlib seaborn statsmodels`
 
-*(Optional: Consider creating a `requirements.txt` file listing these)*
+
 
 ## Usage
 
